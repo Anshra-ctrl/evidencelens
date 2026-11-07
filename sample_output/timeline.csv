@@ -1,0 +1,7 @@
+local_time,utc_time,event,name,path,size,source_csv
+2004-04-30T01:00:00-05:00,2004-04-30T06:00:00+00:00,accessed,gumbo1.txt,/img_RHINOUSB.dd/gumbo1.txt,2815,rhinousb_files.csv
+2004-04-30T01:00:00-05:00,2004-04-30T06:00:00+00:00,accessed,gumbo2.txt,/img_RHINOUSB.dd/gumbo2.txt,1293,rhinousb_files.csv
+2004-04-30T19:11:20-05:00,2004-05-01T00:11:20+00:00,modified,gumbo1.txt,/img_RHINOUSB.dd/gumbo1.txt,2815,rhinousb_files.csv
+2004-04-30T19:11:20-05:00,2004-05-01T00:11:20+00:00,created,gumbo1.txt,/img_RHINOUSB.dd/gumbo1.txt,2815,rhinousb_files.csv
+2004-04-30T19:11:24-05:00,2004-05-01T00:11:24+00:00,modified,gumbo2.txt,/img_RHINOUSB.dd/gumbo2.txt,1293,rhinousb_files.csv
+2004-04-30T19:11:24-05:00,2004-05-01T00:11:24+00:00,created,gumbo2.txt,/img_RHINOUSB.dd/gumbo2.txt,1293,rhinousb_files.csv
